@@ -1,4 +1,4 @@
-## Hi there 👋
+## We upload our collected dataset and experiments results in this repo.
 
 <!--
 **meta-evaluation/meta-evaluation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
